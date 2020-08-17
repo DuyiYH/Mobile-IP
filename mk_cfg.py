@@ -1,3 +1,4 @@
+#这段程序用于根据链路状态信息的数据库，自动生成MIP运行所需配置文件
 # coding:utf-8
 import pymysql
 import json
